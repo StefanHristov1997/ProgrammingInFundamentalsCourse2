@@ -1,6 +1,6 @@
 # ProgrammingInFundamentalsCourse
 Hello, in this repository you can see all solved problems by me from Java Fundamentals course in Software University. 
-<img align = "middle" src= "https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/6ea64e49-3cd5-49f4-b3fa-309ebc9e5e98" width="400" height="400" />
+<img src= "https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/6ea64e49-3cd5-49f4-b3fa-309ebc9e5e98" width="250" height="250" />
 
 # Тhe skills I gained after completing the course:
 ➡️ Handling the standard functionality of the programming language
