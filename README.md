@@ -1,5 +1,5 @@
 # ProgrammingInFundamentalsCourse
-Hello, in this repository are all my solved problems from Java Fundamentals course in Software University. <img src= "https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/6ea64e49-3cd5-49f4-b3fa-309ebc9e5e98" width="100" height="100" />
+Hello, in this repository are all my solved problems from Java Fundamentals course in Software University. <img src= "https://github.com/StefanHristov1997/Java_Advanced_Course/assets/133797718/6ea64e49-3cd5-49f4-b3fa-309ebc9e5e98" width="90" height="90" />
 
 ### Тhe skills I gained after completing the course:
 
