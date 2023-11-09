@@ -14,4 +14,4 @@ Hello, in this repository you can see all solved problems by me from Java Fundam
 ➡️ Basic HTML and CSS skills
 
 #  My certificate after the course
-<img srt = "https://github.com/StefanHristov1997/Programming_In_FundamentalsCourse/assets/133797718/4a414fa7-8ef3-474e-8f70-cfd65d8a9307" width="250" height="400" />
+<img src="https://github.com/StefanHristov1997/StefanHristov1997/assets/133797718/1062ef78-1bd8-4d99-8422-7212305976a8" width="250" height="400" />
